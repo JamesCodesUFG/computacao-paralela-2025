@@ -37,3 +37,9 @@ Requisitos do Trabalho
 * Apresentação: slides da apresentação.
 * Relatório técnico (máximo de 5 páginas): detalhando o trabalho realizado, incluindo a descrição do tema, os requisitos, a modelagem dos dados, as tecnologias utilizadas, as consultas implementadas e a análise de dados. 
 * Código-fonte do projeto: disponibilizado em um repositório Git (ex: Github, GitLab).
+
+## Links
+
+* Apresentação: [Canva](https://www.canva.com/design/DAGqj6UUHi4/XBePVU2iMZY13kW7MbLQjA/edit?utm_content=DAGqj6UUHi4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+* Relatório técnico: [Google Docs](https://docs.google.com/document/d/1VtnQoxiJyaHXdWE0d8vynXJSHd-NxIGZ1BWsiXEgviU/edit?usp=sharing)
+* Código-fonte: [Github](https://github.com/JamesCodesUFG/computacao-paralela-2025)
